@@ -1,0 +1,62 @@
+body{
+    background-color: #000000;
+}
+nav {
+    display: flex;
+    align-items : center;
+    background-color: #000000;
+    color : #f5b427;
+    font-family: 'Josefin Sans', sans-serif;}
+
+nav > h2 {
+    margin : 0px;
+    padding-right: 15px;
+    padding-left: 900px;
+    padding-top : 20px;
+
+}
+
+nav > h1 {
+    margin : 10px;
+    padding-left: 55px;
+    padding-top : 20px;
+}
+.circle {
+    background: #f5b427;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin-left: 525px;
+    margin-top : 180px;
+    margin-bottom : 200px;
+    text-align :center;
+}
+
+.circleLabel {
+    padding-top : 105px;
+    font-size : 35px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.circleConfidence {
+    padding-top : 0px;
+    font-size : 35px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.circleCalculating {
+    padding-top : 80px;
+    font-size : 35px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.instruction {
+    font-family: 'Josefin Sans', sans-serif;
+    padding-left :220px;
+    color : #f5b427;
+    padding-top :100px;
+
+
+}
